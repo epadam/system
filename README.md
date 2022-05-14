@@ -1,2 +1,7 @@
 # system
-mlops
+
+label studio
+
+clearML
+
+streamlit as demo
